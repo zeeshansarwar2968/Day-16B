@@ -1,0 +1,39 @@
+.main-cont{
+    background-color: grey;
+ 
+}
+/* properties applied on the profile image to give it a dotted border and specific color */
+#profileimg{
+    max-width: auto;
+    height: 25vh;
+    border-radius: 100%;
+    border: 5px dotted orange;
+    align-content: center;
+
+}
+ /* properties for name text and background */
+.profileName{
+    background-color: orange;
+    border-radius: 0.3rem;
+}
+
+/* properties to properly align the content on page and make it responsive */
+
+.line2{
+    background-color:white;
+    margin:1em;
+    border-bottom: 1px solid grey;
+}
+
+
+
+.text-r{
+    float: right;
+}
+
+
+.marginLine{
+    border-right: 1px solid rgb(196, 190, 190);
+}
+
+
